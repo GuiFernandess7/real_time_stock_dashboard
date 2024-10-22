@@ -12,9 +12,9 @@ The **Real-Time Stock Dashboard** is an interactive and user-friendly tool that 
 
 - **Technical Indicators:** The application allows users to add popular technical indicators, such as SMA (Simple Moving Average) and EMA (Exponential Moving Average), to aid in technical analysis and trend identification.
 
-- **Transaction Logging:** Users can record buy and sell transactions, including the date and the current stock value, with immediate visual feedback on the success of the operation.
+- **Transaction Logging:** Users can record transactions, including the date and the current stock value, with immediate visual feedback on the success of the operation.
 
-- **Metrics Analysis:** The application calculates and displays important metrics, such as closing price, percentage change, trading volume, and high/low values, providing a comprehensive view of stock performance.
+- **Metrics Analysis:** The application gets and displays important metrics, such as closing price, percentage change, trading volume, and high/low values, providing a comprehensive view of stock performance.
 
 - **Intuitive User Interface:** The application’s interface is designed to facilitate navigation and interaction, with configuration options available in the sidebar.
 
