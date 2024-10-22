@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/dac57e42-f3c2-44af-b8e7-2b4d500f82e0
+
 ### Real-Time Stock Dashboard
 
 The **Real-Time Stock Dashboard** is an interactive and user-friendly tool that allows users to monitor and analyze the performance of stocks across different financial markets. With a responsive design and easy-to-use interface, this application provides a clear and comprehensive view of stock prices, enabling investors to make informed decisions.
